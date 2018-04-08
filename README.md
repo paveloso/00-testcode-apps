@@ -5,5 +5,6 @@
 it include: 
 - calculator with parentheses and priorities
 - sequence builder from a sequence
+- pyramide builder from list of integers
 
 tested with Travis CI
