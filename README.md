@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/paveloso/00-testcode-apps.svg?branch=master)](https://travis-ci.org/paveloso/00-testcode-apps)
 
 # 00-testcode-apps
 
@@ -8,3 +7,8 @@ it include:
 - pyramide builder from list of integers
 
 tested with Travis CI
+
+**Result:**
+
+- Author name: Pavels Saikins
+- Travis CI: [![Build Status](https://travis-ci.org/paveloso/00-testcode-apps.svg?branch=master)](https://travis-ci.org/paveloso/00-testcode-apps)
